@@ -23,7 +23,4 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/images/burggures_flutter.jpeg
-    - assets/images/image.png
-    - assets/images/image_larg.png
-    - assets/images/image_stories.png
+    - assets/images/

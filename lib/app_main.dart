@@ -7,9 +7,8 @@ class AppMain extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: "Tasks Flutter",
+      title: "Instagram Flutter",
       debugShowCheckedModeBanner: false,
-      // home: HomeScreen(),
       home: InstagramScreen(),
     );
   }

@@ -14,3 +14,14 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+# My Flutter Project Instagram 
+
+This is a simple Flutter project that demonstrates basic UI elements.
+
+## Screenshot
+
+![Home Screen](assets/screenshots/home_screen.png)
+![Profile Screen](assets/screenshots/profile_screen.png)
+![Edit Profile Screen](assets/screenshots/edit_profile.png)

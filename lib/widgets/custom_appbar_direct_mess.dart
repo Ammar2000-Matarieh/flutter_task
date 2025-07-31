@@ -1,3 +1,4 @@
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 class CustomAppBarDirectMessWidget extends StatelessWidget
@@ -10,7 +11,7 @@ class CustomAppBarDirectMessWidget extends StatelessWidget
       backgroundColor: Color(0xff121212),
       leading: IconButton(
         onPressed: () {},
-        icon: Icon(Icons.arrow_back_ios_new, color: Colors.white),
+        icon: Icon(CupertinoIcons.search, color: Colors.white),
       ),
       centerTitle: true,
       title: Row(

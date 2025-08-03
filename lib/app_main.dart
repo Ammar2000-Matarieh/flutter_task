@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tasks_app/screens/instagram_screen.dart';
+import 'package:tasks_app/screens/favorites/favorites_screen.dart';
 
 class AppMain extends StatelessWidget {
   const AppMain({super.key});
@@ -9,7 +9,7 @@ class AppMain extends StatelessWidget {
     return MaterialApp(
       title: "Instagram Flutter",
       debugShowCheckedModeBanner: false,
-      home: InstagramScreen(),
+      home: FavoritesScreen(),
     );
   }
 }

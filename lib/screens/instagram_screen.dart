@@ -29,7 +29,7 @@ class _InstagramScreenState extends State<InstagramScreen> {
         onTap: (value) {
           setState(() {
             currentIndex = value;
-            print(currentIndex);
+            // print(currentIndex);
           });
         },
         currentIndex: currentIndex,

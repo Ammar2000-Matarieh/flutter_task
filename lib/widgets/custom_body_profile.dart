@@ -132,6 +132,7 @@ class CustomBodyProfile extends StatelessWidget {
           SizedBox(height: 15),
           Expanded(
             child: GridView.builder(
+              itemCount: 10,
               shrinkWrap: true,
               gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
                 crossAxisCount: 3,
